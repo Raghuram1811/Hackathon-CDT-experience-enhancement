@@ -10,7 +10,7 @@ import pyscreenshot
 camera = cv2.VideoCapture(0)
 
 #load images of same pixel dimensions
-# Pixel dimensions s_img.shape[0] = 103, s_img.shape[1] = 188 
+# Pixel dimensions s_img.shape[0] = 103, s_img.shape[1] = 188
 s_img1 = cv2.imread("RosheOne_Quarter300px.png", -1) 
 s_img2 = cv2.imread("rosheone_quarter_red0719.png",-1) 
 s_img3 = cv2.imread("rosheone_quarter_blue0719.png",-1)
