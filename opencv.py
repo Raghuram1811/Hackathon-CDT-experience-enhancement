@@ -1,4 +1,4 @@
-#Initial Code dev : Brain Benesch ; Ahdil Hameed ; Raghuram GVS
+#Author : Raghuram GVS
 
 import cv2
 import imutils
